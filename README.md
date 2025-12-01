@@ -2,7 +2,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">A Junior Fullstack developer based in Reggio Nell'Emilia. I have extensive experience working in agile environment on several projects.</h3>
+<h3 align="left">A Fullstack developer based in Reggio Nell'Emilia. I have extensive experience working in agile environment on several projects.</h3>
 &emsp;
 
 -------------------
